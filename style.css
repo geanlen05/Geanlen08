@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    width: auto;
+    background-color: black;
+    background-size: auto;
+}
+#name{
+    color: white;
+    text-align: center;
+    font-size: 500px;
+    position: absolute;
+    padding-left: 200px ;
+    padding-top:300px ;
+}
+
+
+
+#image1{
+    width: 1000px;
+    position: relative;
+    padding-right: 100px;
+}
+#image2{
+    width: 1500px; 
+    padding-top: 10px; 
+    position: absolute;
+    padding-left: 2200px;
+
+
+}
+
+#image3{
+    width: 2000px; 
+    padding-top:500px; 
+    position: absolute;
+    padding-left:1400px;
+    
+
+}
+
+#ran{
+    color: white;
+    font-size: 90px;
+    padding-left:900px ;
+    padding-top:-50px;
+    position: absolute;
+
+    
+}
+
+#hero-number{
+    color: rgb(202, 58, 58);
+    font-size: 1200px;
+    position: absolute;
+    opacity: 50%;
+    padding-top:280px ;
+    font-weight: bold;
+
+}
+
+#footer{
+    position: absolute;
+    padding-left: 150px;
+    top: 2500px;
+    font-size: 60px;
+    color: white;
+}
+
